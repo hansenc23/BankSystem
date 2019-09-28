@@ -1,6 +1,6 @@
 Simple C# Bank Console Application using File operations
 
-Main function:
+Main functions:
 1. Create an account
 2. Search Account
 3. Deposit
