@@ -1,0 +1,7 @@
+G:\BankSystem\BankSystem\bin\Debug\BankSystem.exe.config
+G:\BankSystem\BankSystem\bin\Debug\BankSystem.exe
+G:\BankSystem\BankSystem\bin\Debug\BankSystem.pdb
+G:\BankSystem\BankSystem\obj\Debug\BankSystem.csprojAssemblyReference.cache
+G:\BankSystem\BankSystem\obj\Debug\BankSystem.csproj.CoreCompileInputs.cache
+G:\BankSystem\BankSystem\obj\Debug\BankSystem.exe
+G:\BankSystem\BankSystem\obj\Debug\BankSystem.pdb
