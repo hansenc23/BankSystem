@@ -10,4 +10,4 @@ Main function:
 
 Login credentials is stored in a text file
 
-Location: /BankSystem/Debug/bin/login.txt
+Location: /BankSystem/bin/Debug/login.txt
